@@ -102,7 +102,7 @@ public class Program {
        
         char resultadoSumaParaChar = (char)(char1 + char2);
         char resultadoRestaParaChar = (char)(char1 - char2);
-        char resultadoMultiplicacionParaChar = (char)((char1 * char2);
+        char resultadoMultiplicacionParaChar = (char)(char1 * char2);
         char resultadoDivisionParaChar = (char)(char1 / char2);
         char resultadoResiduoParaChar = (char)(char1 % char2); 
       
